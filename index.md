@@ -1,6 +1,8 @@
 # Szymon Wlazlowski
 
-Welcome. This is a flat Markdown export of selected posts. Use the links below:
+Welcome. This is a flat Markdown export of selected posts. 
+
+Use the links below:
 
 - [Small request](small-request.md)
 - [Transfer Pricing](transfer-pricing.md)
