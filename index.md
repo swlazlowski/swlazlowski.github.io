@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+
 # Welcome
 This is a flat Markdown export of selected posts from my previous pages. 
 Use the links below:
