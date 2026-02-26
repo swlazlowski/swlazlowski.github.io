@@ -1,7 +1,5 @@
-# Szymon Wlazlowski
-
-Welcome. This is a flat Markdown export of selected posts. 
-
+# Welcome
+This is a flat Markdown export of selected posts from my previous pages. 
 Use the links below:
 
 - [Small request](small-request.md)
