@@ -1,7 +1,6 @@
 # Debian 3.1r3 on ThinkPad T42
 
-- The description of the laptop can be found here.
-- Debian stable (3.1r3) was installed using the network install, as described here.
+- Debian stable (3.1r3) was installed using the network install, as described [here](https://www.thinkwiki.org/wiki/Installing_Debian_3.1_(Sarge)_on_a_ThinkPad_T42).
 - The vanilla install was largely left unchanged, as almost everything worked.
 - The only glitch was due to the presence of a protected part of the disk reserved by T42 for extra features (system backup). This part occupies initial disk sectors and prohibits boot-up using GRUB. The solution is to:
   - install GRUB somewhere else (beginning of your Linux partition, e.g., `/dev/hda3`)
@@ -22,5 +21,3 @@
     ```text
     c:\debian.img="Debian 3.1r3"
     ```
-
-This is explained all over the net, for example here. Other excellent HowTo’s describing installation of GNU/Linux on the machine can be found here.
